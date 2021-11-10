@@ -17,7 +17,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+       "bundleIdentifier": "com.SamaGuide.L3TDSI",
+"config": {
+"googleMapsApiKey": "AIzaSyA6QVeIakUGAFv4IZXHuQ4ytNaNjnhnjLE"
+}
     },
     "android": {
       "adaptiveIcon": {
